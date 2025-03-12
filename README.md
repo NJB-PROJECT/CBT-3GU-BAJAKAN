@@ -1,5 +1,6 @@
 # INFO Changelog - CBT-3GU-BAJAKAN🛑
 
+![logoapkutama](https://github.com/user-attachments/assets/2249fa6f-0242-4aca-b56b-09881f370e4f)
 ## v1.0.0 - [Initial Release]
 - Membuat aplikasi **CBT Bajakan** dengan fitur utama:
   - Login ke sistem CBT tanpa batasan sekolah.
