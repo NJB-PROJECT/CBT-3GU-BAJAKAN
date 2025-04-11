@@ -1,6 +1,24 @@
-# INFO Changelog - CBT-3GU-BAJAKAN🛑
+# INFO Changelog - CBT-3GU-BAJAKAN🛑 BAHASA INDONESIA!
 
 ![logoapkutama](https://github.com/user-attachments/assets/2249fa6f-0242-4aca-b56b-09881f370e4f)
+
+## New Update Patch 1.2.1 (Final BetaTest V9)
+- Fix bug chatGPT dan gemini AI membuat aplikasi crash.
+- Menambahkan splash video animasi di awal aplikasi dibuka.
+- Memperbaiki struktur GRID pada tombol fitur awal aplikasi.
+
+
+NOTE : GRATIS DIPAKAI SELURUH SISWA-SISWI SMK-SMA TRIGUNA UTAMA CIPUTAT TIMUR!
+JANGAN DISEBAR LUASKAN⚠️
+
+
+Dibuat Oleh :
+`NJB PROJECT ID / NJB PRODUCTION ID ✅`
+
+Apk Dibuat Dengan :
+`KOTLIN,  JAVA,  IDE GRADLE`
+
+
 ## v1.0.0 - [Initial Release]
 - Membuat aplikasi **CBT Bajakan** dengan fitur utama:
   - Login ke sistem CBT tanpa batasan sekolah.
