@@ -1,4 +1,4 @@
-# INFO Changelog - CBT-3GU-BAJAKAN🛑 BAHASA INDONESIA!
+# INFO UPDATE DIBAWAH!  CBT-3GU-BAJAKAN🛑 BAHASA INDONESIA!
 
 ![logoapkutama](https://github.com/user-attachments/assets/2249fa6f-0242-4aca-b56b-09881f370e4f)
 
