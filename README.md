@@ -2,7 +2,7 @@
 
 ![logoapkutama](https://github.com/user-attachments/assets/2249fa6f-0242-4aca-b56b-09881f370e4f)
 
-## New Update Patch 1.3.5(Final BetaTest)
+## New Update Patch 1.3.5 (Final BetaTest)
 - Fix bug chatGPT dan gemini AI membuat aplikasi crash.
 - Menambahkan splash video animasi di awal aplikasi dibuka.
 - Memperbaiki struktur GRID pada tombol fitur awal aplikasi.
@@ -16,7 +16,7 @@ JANGAN DISEBAR LUASKAN⚠️
 
 
 Dibuat Oleh :
-`NJB PROJECT ID / NJB PRODUCTION ✅`
+`NJB PROJECT / NJB PRODUCTION ✅`
 
 Apk Dibuat Dengan :
-`KOTLIN,  JAVA,  IDE GRADLE, FIRRBASE`
+`KOTLIN,  JAVA,  IDE GRADLE, FIREBASE, GIT, FLUTTER`
